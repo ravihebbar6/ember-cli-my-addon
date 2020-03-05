@@ -1,0 +1,21 @@
+{
+  "name": "ember-cli-my-addon",
+  "description": "The default blueprint for ember-cli addons.",
+  "main": "index.js",
+  "authors": [
+    "Ravi Hebbar <rhebbar@teamdrg.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ember-addon",
+    "my-addon"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

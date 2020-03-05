@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-my-addon/components/my-button';
